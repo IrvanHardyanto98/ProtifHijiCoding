@@ -18,7 +18,7 @@ int main(){
 			remainder = remainder % denominator;
 			
 		}while();
-		
+		printf("%d\n",remainder);
 		
 		free(repeatingDigit);
 	}
